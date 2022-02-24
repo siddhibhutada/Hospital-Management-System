@@ -1,6 +1,22 @@
 # Hospital-Management-System
-Java program for managing hospital data using DBMS.
-The application uses login id and password for an admin
-It stores patient data, updates the data and saves the history of a patient.
-The application can also be used to store the diagnosis of a patient. 
-It generates the medicine data given to a particular patient.
+Hospital management system is an important management system for adding, maintaining and updateing patient's record
+A fare, safe and user-friendly application that helps manageing secured data
+
+Tools used : DBMS, Java, JFrames.
+
+Screenshots : 
+
+![Screenshot (166)](https://user-images.githubusercontent.com/85407175/155501475-8c7b4f58-415c-4dfb-87ec-f9c2160ede20.png)
+
+![Screenshot (168)](https://user-images.githubusercontent.com/85407175/155501991-00ac01d4-5f42-4ea6-9e94-b76b9d112694.png)
+
+Features:
+
+Admin Login: This contains all the tools and options required by an admin of the hospital.
+
+Menu page: It shows all the actions required to make for a patient like add a patient, update data of a patient, search some patient, etc.
+
+Previous History: It will show history of a patient.
+
+Billing details: It will show the details of a bill for a particular patient.
+
