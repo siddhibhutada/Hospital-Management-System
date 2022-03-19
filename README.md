@@ -1,6 +1,6 @@
 # Hospital-Management-System
-Hospital management system is an important management system for adding, maintaining and updateing patient's record
-A fare, safe and user-friendly application that helps manageing secured data
+Hospital management system is an important management system for adding, maintaining and updating patient's record
+A fare, safe and user-friendly application that helps managing secured data
 
 Tools used : DBMS, Java, JFrames.
 
